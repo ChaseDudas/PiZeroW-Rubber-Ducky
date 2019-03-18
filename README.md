@@ -6,7 +6,23 @@ A self driven project to make a modified version of a rubber ducky.
    \___)  \___)  \___)     (___/  (___/  (___/    \___)  \___)  \___)     (___/  (___/  (___/ 
 ```
 ## Steps
+1. Set up ras pi
+      * Attatch USB stem to Pi Zero
+      * (OPTIONAL) Print case 
+2. Install Duckberry Pi
+      * Use Etcher for Mac or Rufus for Windows
+      * Follow steps outlined in Duckberry Pi link under resources
+3. Edit payload.dd file on the SD card
+      * Place your ducky script in here
+4. Insert into USB port of target machine
+      * Vwola!
 
+## Materials
+- 1x Pi Zero W
+- 1x Pi Zero USB Stem
+- 1x USB Connector
+- 2x Nylon Bolt
+- 2x Nylon Screw
 
 ## Resouces
 
