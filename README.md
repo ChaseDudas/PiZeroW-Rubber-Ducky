@@ -1,6 +1,10 @@
 # PiZeroW-Rubber-Ducky-
 A self driven project to make a modified version of a rubber ducky. 
-
+```
+   _      _      _         USB         _      _      _
+   __(.)< __(.)> __(.)=   Duck-    >(.)__ <(.)__ =(.)__
+   \___)  \___)  \___)    Berry!    (___/  (___/  (___/ 
+```
 ## Resouces
 
 List of already created scripts
