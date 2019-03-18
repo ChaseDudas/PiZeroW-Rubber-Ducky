@@ -8,3 +8,6 @@ List of already created scripts
 
 Script Generator
 - https://ducktoolkit.com/
+
+Duckberry Pi 
+- https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi
