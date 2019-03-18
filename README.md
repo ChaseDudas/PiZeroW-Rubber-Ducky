@@ -1,4 +1,4 @@
-# PiZeroW-Rubber-Ducky-
+# PiZeroW-Rubber-Ducky
 A self driven project to make a modified version of a rubber ducky. 
 ```
       _      _      _     USB        _      _      _
