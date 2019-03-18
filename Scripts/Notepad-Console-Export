@@ -1,0 +1,39 @@
+WINDOWS d
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+STRING Whoops!  Looks at that.  This seems to be running on it's own.  I wonder what else it can do? 
+DELAY 500
+ENTER
+DELAY 500
+STRING OH!  I know!  What if I run some commands on my own, that sounds like fun!  
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING Maybe I could find your IP and export it to a .txt file.
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+REM Obfuscate the command prompt
+STRING mode con:cols=18 lines=1
+ENTER
+STRING color FE
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING ipconfig >%USERPROFILE%\Desktop\.ipconfig.txt
+DELAY 500
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING %USERPROFILE%\Desktop\.ipconfig.txt
+ENTER
