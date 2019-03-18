@@ -10,7 +10,7 @@ A self driven project to make a modified version of a rubber ducky.
       * Attatch USB stem to Pi Zero
       * (OPTIONAL) Print case 
 2. Install Duckberry Pi
-      * Use Etcher for Mac or Rufus for Windows
+      * Use balenaEtcher for Mac or Rufus for Windows
       * Follow steps outlined in Duckberry Pi link under resources
 3. Edit payload.dd file on the SD card
       * Place your ducky script in here
