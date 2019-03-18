@@ -19,6 +19,7 @@ A self driven project to make a modified version of a rubber ducky.
 
 ## Materials
 - 1x Pi Zero W
+- 1x Micro USB card (16GB)
 - 1x Pi Zero USB Stem
 - 1x USB Connector
 - 2x Nylon Bolt
