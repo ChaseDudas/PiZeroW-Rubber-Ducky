@@ -38,3 +38,6 @@ Duckberry Pi
 
 SetUp
 - https://zerostem.io/
+
+SSH
+- https://www.thepolyglotdeveloper.com/2016/06/connect-raspberry-pi-zero-usb-cable-ssh/
