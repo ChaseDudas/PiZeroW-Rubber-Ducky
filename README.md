@@ -35,3 +35,6 @@ Script Generator
 
 Duckberry Pi 
 - https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi
+
+SetUp
+- https://zerostem.io/
