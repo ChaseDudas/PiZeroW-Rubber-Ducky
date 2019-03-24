@@ -43,4 +43,4 @@ SSH
 - https://www.thepolyglotdeveloper.com/2016/06/connect-raspberry-pi-zero-usb-cable-ssh/
 
 ## Hotfixes
-* Not turning on? On the stem usb attatchment, make sure to solder the 4 usb contact points. I left these unsoldered and the pi zero would not turn on upon plugging in.
+* Not turning on? On the stem usb attatchment, make sure to solder the 4 usb contact points. I left these unsoldered and the pi zero would not turn on upon plugging in. 
