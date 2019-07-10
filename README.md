@@ -6,7 +6,7 @@ A self driven project to make a modified version of a rubber ducky.
    \___)  \___)  \___)     (___/  (___/  (___/    \___)  \___)  \___)     (___/  (___/  (___/ 
 ```
 ## Steps
-1. UPON ARRIVAL
+1. GATHER [PARTS](##Materials) AND ASSEMBLE 
       * Attatch USB stem to Pi Zero by soldering
       * (OPTIONAL) Print case 
 2. GETTING THE ENVIRONMENT SETUP
