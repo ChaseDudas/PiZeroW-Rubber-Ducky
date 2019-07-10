@@ -10,9 +10,9 @@ A self driven project to make a modified version of a rubber ducky.
       * Attatch USB stem to Pi Zero by soldering
       * (OPTIONAL) Print case 
 2. GETTING THE ENVIRONMENT SETUP
-      * (SIDENOTE) Use balenaEtcher for Mac or Rufus for Windows
+      * (SOFTWARE) Use balenaEtcher for Mac or Rufus for Windows
       * [Download](https://www.raspberrypi.org/downloads/raspbian/) Raspbian Jessie Lite image and flash it to the SD card
-      * Open the SD card from your Mac or Windows
+      * Plug the SD in and open it's folder
       * Create a new file called ssh (The file will be left blank, it just needs to exist in the /boot folder(just the main               folder with other junk in it))
       * Create a new file called wpa_supplicant.conf 
             
